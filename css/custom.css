@@ -1,0 +1,48 @@
+.nav-item > a {
+    font-weight: bold;
+    color: #000;
+    
+}
+
+.nav-item > a:hover {
+    color: #007bff;
+}
+
+.nav-item li a {
+    position: relative;
+    display: block;
+    padding: 10px;
+    text-decoration: black;
+    color: #000;
+}
+
+.nav-item li a:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.nav-item li a::before {
+    content: "\2022";
+    color: #ff0000;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+.alert-custom {
+    border: 1px solid #dc3545;
+    border-radius: .25rem;
+    padding: 15px;
+    background-color: #f8d7da;
+    color: #721c24;
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: left;
+    position: relative;
+    padding-left: 40px;
+}
+
+.container {
+    padding: 20px;
+}
