@@ -5,6 +5,15 @@ Management Fest 2K25 is a web-based platform designed to streamline event manage
 
 ---
 
+## 📸 Screenshots
+Here are some screenshots of the application:
+
+![Screenshot 1](screenshots/6305236192572063921.jpg)
+![Screenshot 2](screenshots/770shots_so.png)
+
+
+---
+
 ## 🌐 Live Site
 The website is deployed on **InfinityFree** and accessible at:  
 🔗 [https://sangamanerclgmanfest.lovestoblog.com](https://sangamanerclgmanfest.lovestoblog.com)
