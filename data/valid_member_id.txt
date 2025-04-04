@@ -1,3 +1,9 @@
+this file is made for the student verification which is used to verify students using the id numbers provided by the college. So by this no else can register if he dosent have student id or any external enitity. It will protect our site from spammers.
+
+
+update your target student id  numbers here:
+
+
 25101
 25102
 25103
