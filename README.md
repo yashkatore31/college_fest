@@ -37,7 +37,7 @@ The website is deployed on **InfinityFree** and accessible at:
    ```
 2. **Move to the project directory:**
    ```sh
-   cd management-fest
+   cd college_fest
    ```
 3. **Set up the database:**
    - Import `DATABASE FILE/management_fest.sql` into MySQL.
@@ -46,14 +46,14 @@ The website is deployed on **InfinityFree** and accessible at:
 4. **Start Apache and MySQL using XAMPP.**
 5. **Access the application:**
    ```
-   http://localhost/managemntfest/
+   http://localhost/college_fest/
    ```
 
 ---
 
 ## 📂 Folder Structure
 ```
-managemntfest/
+college_fest/
 │   index.php              # Home Page
 │   config.php             # Main Database Configuration
 │   login.php              # User Login Page
